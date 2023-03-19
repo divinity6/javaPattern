@@ -3,7 +3,7 @@ package Template;
 import Template.impl.Article;
 import Template.impl.CaptionDisplayArticle;
 import Template.impl.SimpleDisplayArticle;
-import Template.type.DisplayArticleTemplate;
+import Template.types.DisplayArticleTemplate;
 
 import java.util.ArrayList;
 

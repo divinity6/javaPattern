@@ -1,4 +1,4 @@
-package Template.type;
+package Template.types;
 
 import Template.impl.Article;
 

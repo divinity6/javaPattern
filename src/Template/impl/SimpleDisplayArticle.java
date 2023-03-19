@@ -1,6 +1,6 @@
 package Template.impl;
 
-import Template.type.DisplayArticleTemplate;
+import Template.types.DisplayArticleTemplate;
 
 import java.util.ArrayList;
 
