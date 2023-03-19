@@ -1,5 +1,9 @@
 package Iterator;
 
+import Iterator.impl.Array;
+import Iterator.impl.Item;
+import Iterator.types.Iterator;
+
 public class MainEntry {
 
     public static void main( String[] args ){

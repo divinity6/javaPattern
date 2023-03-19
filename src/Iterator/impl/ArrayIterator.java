@@ -1,4 +1,6 @@
-package Iterator;
+package Iterator.impl;
+
+import Iterator.types.Iterator;
 
 public class ArrayIterator implements Iterator {
     private final Array array;

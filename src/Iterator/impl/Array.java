@@ -1,4 +1,7 @@
-package Iterator;
+package Iterator.impl;
+
+import Iterator.types.Aggregator;
+import Iterator.types.Iterator;
 
 public class Array implements Aggregator {
 

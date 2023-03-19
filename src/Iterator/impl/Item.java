@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator.impl;
 
 public class Item {
     private final String name;    // 이름
