@@ -56,3 +56,6 @@
 
 
 - 디자인 패턴을 여**러 관점에서 변형하고, 혼합하여 소프트웨어 설계에 활용**하면 된다
+
+
+- 출처 : https://www.youtube.com/@gisdeveloper
