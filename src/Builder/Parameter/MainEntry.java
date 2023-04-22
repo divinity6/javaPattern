@@ -18,11 +18,11 @@ public class MainEntry {
 //                .setEngine( "V9" )
 //                .build();
 
-        CarBuilder builder = new CarBuilder()
+        CarBuilder builder = new CarBuilder()       // 이렇게 파라미터를 분할하여 독립적으로 처리할 수 있고
                 .setAEB( false )
                 .setCameraSensor( true )
                 .setColor( "white" )
-                .setEngine( "V9" );
+                .setEngine( "V9" );                 // 객체생성을 최대한 뒤로 늦추기 때문에, 중간에 로직을 추가할 수 있다
 
         Random random = new Random();
         Car car2 = builder
