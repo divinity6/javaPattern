@@ -1,7 +1,7 @@
-package Builder;
+package Builder.Parameter;
 
-import Builder.impl.Car;
-import Builder.impl.CarBuilder;
+import Builder.Parameter.impl.Car;
+import Builder.Parameter.impl.CarBuilder;
 
 import java.util.Random;
 

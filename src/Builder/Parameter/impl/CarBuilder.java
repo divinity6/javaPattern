@@ -1,4 +1,4 @@
-package Builder.impl;
+package Builder.Parameter.impl;
 
 public class CarBuilder {
     private String engine;  // 엔진
